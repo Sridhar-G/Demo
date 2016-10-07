@@ -3,4 +3,4 @@ Library    OperatingSystem
 
 *** Test Cases ***
 Testing the Robot scripts
-    ${output} =   Run    touch abc.txt
+    ${output} =   Run    touch ab.txt
