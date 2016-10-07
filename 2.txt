@@ -1,0 +1,6 @@
+*** Settings ***
+Library    OperatingSystem
+
+*** Test Cases ***
+Testing the Robot scripts
+    ${output} =   Run    touch abc.txt
